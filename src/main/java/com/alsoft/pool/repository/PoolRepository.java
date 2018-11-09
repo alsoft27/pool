@@ -1,4 +1,4 @@
-package com.alsoft.pool;
+package com.alsoft.pool.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
